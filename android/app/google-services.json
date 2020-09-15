@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325144153491",
+    "firebase_url": "https://heavy-equipment-4ed17.firebaseio.com",
+    "project_id": "heavy-equipment-4ed17",
+    "storage_bucket": "heavy-equipment-4ed17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325144153491:android:880f8ea538fd507411ac66",
+        "android_client_info": {
+          "package_name": "com.example.heavy_equipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325144153491-98899462i35vf5k3a6s8540mu4hrn4vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARt-rPRf_vCtRZKaJ0LOJ1iZZ-3WX5swg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325144153491-98899462i35vf5k3a6s8540mu4hrn4vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
